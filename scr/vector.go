@@ -1,4 +1,4 @@
-package rlp
+package main
 
 type Vec2 struct {
 	X float32
